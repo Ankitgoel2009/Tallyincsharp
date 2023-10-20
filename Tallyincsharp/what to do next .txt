@@ -1,0 +1,1 @@
+﻿i want that there must be a single instance of this application on per machine basis 

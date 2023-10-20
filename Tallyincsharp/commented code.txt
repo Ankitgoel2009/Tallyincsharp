@@ -1,0 +1,6 @@
+﻿get reference of mainmaster form and its controls 
+ mainmaster master = (mainmaster)this.Parent.FindForm();
+ // access its public methods
+
+ // access its public label 
+ master.CurrentForm.Text = "TDL Loading Error";
